@@ -1,15 +1,15 @@
 # Open_project_12
 
-# Project Openclassroom : Améliorez une application Web Python par des tests et du débogage
+# Project Openclassroom : Développez une architecture back-end sécurisée avec Python et SQL
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](http://forthebadge.com).
 
-this project aims to improve and correct an existing project, as well as to do unit tests
+this project is created for en entreprise who want to manage some Event
 
 ### library and tools
 
-- [https://www.djangoproject.com/](https://flask.palletsprojects.com/en/2.3.x/) Flask
-- [https://www.django-rest-framework.org/](https://docs.python.org/fr/3/library/unittest.html) Unittest
-- https://coverage.readthedocs.io/en/7.2.7/ Coverage
+- https://docs.djangoproject.com/en/4.2/ Django
+- https://www.django-rest-framework.org/ RestFramework
+- https://www.postman.com/ Postman
 
 ### Prerequisites
 
