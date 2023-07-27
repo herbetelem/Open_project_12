@@ -1,0 +1,12 @@
+.header_home_page {
+    background-image: url("https://img.freepik.com/free-vector/bokeh-lights-glitter-background_1048-8548.jpg?w=2000&t=st=1687768432~exp=1687769032~hmac=17d48b2e5c814ac180daa522f56a47b9d319b66553865f7ec334e26e62469b1f");
+    background-size: cover;
+}
+
+img {
+    width: 100%;
+}
+.ticket_box {
+    background-color: rgba(230, 230, 230, 0.5);
+    display: flex;
+}
