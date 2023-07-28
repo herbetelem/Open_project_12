@@ -23,17 +23,14 @@ https://documenter.getpostman.com/view/19733343/2s93ebTWFc Or you can use other 
 
 ## Launching
 
-For launch the projet use the command ``Flask run``
+Once the project is well configured, execute the command ``python3 manage.py makemigrations`` then ``python3 manage.py migrate`` in order to install the database.
 
-If you want to launch the test use the command ``python3 -m unittest test_flask.py``
-
-If you want to see the percent of coverage unittest, run the command ``python -m coverage run -m unittest`` then this one ``python -m coverage report ``
+If you want to launch the project to be able to browse the site, run the command ``python3 manage.py runserver``
 
 
 ## Functional
 
-This project aims to allow bodybuilding associations to be able to register in tournaments.
-However there are some restrictions (the club must have the required points, each club can only take a maximum of 12 places per tournament, and we can only take places in future tournaments)
+This project is about an entreprise who manage a lot of Event for client, their website have been created with a lot of role, each role have restriction to let them manage only the thing they are suppose to manage, and their is also an API who do the sme thing with the same restriction
 
 ## Made with
 
